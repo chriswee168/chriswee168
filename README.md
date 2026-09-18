@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## About Me
 <!--
 **chriswee168/chriswee168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Computer Science graduate passionate computer programmer with a background in backend development and Artificial Intelligence/Machine Learning. Developed projects for prototyping custom machine learning architectures in different
