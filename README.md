@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Computer Science graduate passionate in computer programming with a background in backend development and Artificial Intelligence/Machine Learning. Developed projects for prototyping cost efficient machine learning architectures designed to significantly reduce memory and improve inference on low end GPUs.
+- Computer Science graduate passionate in computer programming with a background in backend development and Artificial Intelligence/Machine Learning.
+- Prototyped cost efficient machine learning architectures designed to significantly reduce memory usage on low end GPUs.
+- Designed custom machine learning frameworks using Python, Rust and CUDA C++.
