@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a computer science graduate with a background in backend development and Artificial Intelligence/Machine Learning. Possessing a self-taught mindset, I have a strong passion in learning different languages and tech stacks to build machine learning projects and full stack applications (showcased in pinned repositories).
+I'm a computer science graduate with a background in backend development and Artificial Intelligence/Machine Learning. Possessing a self-taught mindset, I have a strong passion learning different languages/tech stacks to train models using cost efficient ML architectures, and building custom ML frameworks and full stack applications.
 
 - 🎓 **Education:** Bachelor in Computer Science (2024)
 - 📫 **Contact Email**: [Email](mailto:chriswee168@gmail.com)
