@@ -1,4 +1,4 @@
-## About Me
+## Hi, I'm Chris 👋
 <!--
 **chriswee168/chriswee168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Computer Science graduate passionate in computer programming with a background in backend development and Artificial Intelligence/Machine Learning.
-- Prototyped cost efficient machine learning architectures designed to significantly reduce memory usage on low end GPUs.
-- Designed custom machine learning frameworks using Python, Rust and CUDA C++.
+I'm a computer science graduate with a background in backend development and Artificial Intelligence/Machine Learning. Possessing a self-taught mindset, I have a strong passion in learning new languages and tech stacks to build different projects and practical applications.
+
+- 🎓 **Education:** Bachelor in Computer Science (2024)
+- 📫 **Contact Email**: [Email](mailto:chriswee168@gmail.com)
+
+### 🛠️ Current tech stack
+- **Languages**: Python, Rust, JavaScript
+- **Libraries & Frameworks**: PyTorch, Keras, React, FastAPI, SQLite3
+- **Tools & Cloud Systems**: Git, Render (PaaS)
+
+### ⚡ Fun facts about me:
+- 💻 Kickstarted my passion for computers at 15 via a YouTube video on ethical hacking in Kali Linux.
+- 🥧 Tinkered with the Raspberry Pi and VirtualBox for ethical hacking and learned the Linux command line.
+- 🧠 Focus on ethical hacking shifted to programming and training Keras models during final high school years.
+- 🌌 Apart from programming, I'm interested in space exploration and always curious about the universe.
