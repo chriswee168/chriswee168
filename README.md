@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 I'm a computer science graduate with a background in backend development and Artificial Intelligence/Machine Learning. Possessing a self-taught mindset, I have a strong passion in learning different languages and tech stacks to build machine learning projects and full stack applications (showcased in pinned repositories).
 
-### About me:
 - 🎓 **Education:** Bachelor in Computer Science (2024)
 - 📫 **Contact Email**: [Email](mailto:chriswee168@gmail.com)
 
@@ -24,8 +23,8 @@ I'm a computer science graduate with a background in backend development and Art
 - **Libraries & Frameworks**: PyTorch, Keras, React, FastAPI, SQLite3
 - **Tools & Cloud Systems**: Git, Render (PaaS)
 
-### ⚡ Fun Facts:
+### ⚡ Fun Facts
 - 💻 Kickstarted my passion for computers at 15 via a YouTube video on ethical hacking in Kali Linux.
 - 🥧 Tinkered with the Raspberry Pi and VirtualBox for ethical hacking and learned the Linux command line.
-- 🧠 Focus on ethical hacking shifted to programming and training Keras models during final high school years.
-- 🌌 Apart from programming, I'm interested in space exploration and always curious about the universe.
+- 🤖 Shifted from ethical hacking to programming in Python and training Keras models during final high school years.
+- 🌌 Interested in space exploration and always curious about the universe.
