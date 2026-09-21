@@ -13,17 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a computer science graduate with a background in backend development and Artificial Intelligence/Machine Learning. Possessing a self-taught mindset, I have a strong passion in learning new languages and tech stacks to build different projects and practical applications.
+I'm a computer science graduate with a background in backend development and Artificial Intelligence/Machine Learning. Possessing a self-taught mindset, I have a strong passion in learning different languages and tech stacks to build machine learning projects and full stack applications (showcased in pinned repositories).
 
+### About me:
 - 🎓 **Education:** Bachelor in Computer Science (2024)
 - 📫 **Contact Email**: [Email](mailto:chriswee168@gmail.com)
 
-### 🛠️ Current tech stack
+### 🛠️ Current Tech Stack
 - **Languages**: Python, Rust, JavaScript
 - **Libraries & Frameworks**: PyTorch, Keras, React, FastAPI, SQLite3
 - **Tools & Cloud Systems**: Git, Render (PaaS)
 
-### ⚡ Fun facts about me:
+### ⚡ Fun Facts:
 - 💻 Kickstarted my passion for computers at 15 via a YouTube video on ethical hacking in Kali Linux.
 - 🥧 Tinkered with the Raspberry Pi and VirtualBox for ethical hacking and learned the Linux command line.
 - 🧠 Focus on ethical hacking shifted to programming and training Keras models during final high school years.
