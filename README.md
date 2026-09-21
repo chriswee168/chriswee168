@@ -21,7 +21,7 @@ I'm a computer science graduate with a background in backend development and Art
 ### 🛠️ Current Tech Stack
 - **Languages**: Python, Rust, JavaScript
 - **Libraries & Frameworks**: PyTorch, Keras, React, FastAPI, SQLite3
-- **Tools & Cloud Systems**: Git, Render (PaaS)
+- **Tools & Cloud Systems**: Git, Render (Platform as a Service)
 
 ### ⚡ Fun Facts
 - 💻 Kickstarted my passion for computers at 15 via a YouTube video on ethical hacking in Kali Linux.
