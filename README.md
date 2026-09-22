@@ -13,15 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a computer science graduate with a background in backend development and Artificial Intelligence/Machine Learning. Possessing a self-taught mindset, I have a strong passion learning different languages/tech stacks to train models using cost efficient ML architectures, and building custom ML frameworks and full stack applications.
+I'm a computer science graduate and self-taught programmer specializing in backend development and Machine Learning. I like to apply my adaptive mindset to solve complex logical problems, quickly picking up different languages/tech stacks, and coming up with new ideas to build projects and full stack applications.
 
-- 🎓 **Education:** Bachelor in Computer Science (2024)
-- 📫 **Contact Email**: [Email](mailto:chriswee168@gmail.com)
+- 🎓 Graduated with a Bachelor's in Computer Science (2022-2024).
+- 💡 Looking to collaborate on open-source projects or entry-level software engineering roles.
+- 📫 Contact Email: [Email](mailto:chriswee168@gmail.com)
 
 ### 🛠️ Current Tech Stack
 - **Languages**: Python, Rust, JavaScript
 - **Libraries & Frameworks**: PyTorch, Keras, React, FastAPI, SQLite3
-- **Tools & Cloud Systems**: Git, Render (Platform as a Service)
+- **Tools & Cloud Systems**: Git, GitHub, VS Code, Render (Platform as a Service)
 
 ### ⚡ Fun Facts
 - 💻 Kickstarted my passion for computers at 15 via a YouTube video on ethical hacking in Kali Linux.
