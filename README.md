@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a computer science graduate and self-taught programmer specializing in backend development and Machine Learning. I like to apply my adaptive mindset to solve complex logical problems, quickly picking up different languages/tech stacks, and coming up with new ideas to build projects and full stack applications.
+I'm a computer science graduate with a passion for self-directed learning, specializing in backend development and Machine Learning. I like applying my analytical mindset to solve complex logical problems and rapidly adapt to new tech stacks to build robust full stack applications from scratch.
 
 - 🎓 Graduated with a Bachelor's in Computer Science (2022-2024).
 - 💡 Looking to collaborate on open-source projects or entry-level software engineering roles.
