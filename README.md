@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a computer science graduate with a passion for self-directed learning, specializing in backend development and Machine Learning. I enjoy applying my analytical mindset to solve complex logical problems and rapidly adapt to new tech stacks to build robust full stack applications from scratch.
+I'm a computer science graduate with a six-year passion for computer programming with a foundation in Python and machine learning. Enjoys learning and adapting to new tech stacks, and building projects varying from machine learning frameworks to web applications.
 
 - 🎓 Education: Bachelor's in Computer Science (2022 - 2024).
-- 💡 Searching for: Entry-level software engineering / backend / frontend roles.
+- 💡 Searching for: Entry-level software development roles.
 - 📫 Contact Email: [Email](mailto:chriswee168@gmail.com)
 
 ### 🛠️ Current Tech Stack
