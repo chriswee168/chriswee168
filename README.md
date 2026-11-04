@@ -28,4 +28,4 @@ I'm a computer science graduate with a six-year passion for computer programming
 - 💻 Kickstarted my passion for computers at 15 via a YouTube video on ethical hacking in Kali Linux.
 - 🥧 Tinkered with the Raspberry Pi and VirtualBox for ethical hacking and learned the Linux command line.
 - 🤖 Shifted from ethical hacking to programming in Python and training Keras models during final high school years.
-- 🌌 Interested in space exploration and always curious about the universe.
+- 🌌 Interested in space topics and exploration.
