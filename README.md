@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 I'm a computer science graduate with a six-year passion for computer programming with a foundation in Python and machine learning. Enjoys learning and adapting to new tech stacks, and building projects varying from machine learning frameworks to web applications.
 
 - 🎓 Education: Bachelor's in Computer Science (2022 - 2024).
-- 💡 Searching for: Entry-level general software development roles.
+- 💡 Searching for: Entry-level general software development or related technical roles.
 - 📫 Contact Email: [Email](mailto:chriswee168@gmail.com)
 
 ### 🛠️ Current Tech Stack
